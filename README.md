@@ -103,7 +103,7 @@ Una institución financiera busca entender el comportamiento transaccional de su
 - Oportunidades claras para campañas personalizadas  
 
 🔗 **Notebook:**  
-https://github.com/usuario/analisis-canales-pago/blob/main/notebook.ipynb
+https://github.com/josh-josh-123/portfolio/blob/main/notebook_supermercado.md
 
 ---
 
