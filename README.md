@@ -103,8 +103,8 @@ Una institución financiera busca entender el comportamiento transaccional de su
 - Oportunidades claras para campañas personalizadas  
 
 🔗 **Notebook:**  
-https://github.com/josh-josh-123/portfolio/blob/main/notebook_supermercado.md
-- link actulizado
+[Ver notebook_supermercado](https://github.com/josh-josh-123/portfolio/blob/main/notebook_supermercado.md)
+- link actulizado x2
 ---
 
 ## 📉 Proyecto 2: Predicción de Riesgo de Morosidad en Microcréditos
