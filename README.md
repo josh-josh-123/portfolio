@@ -104,7 +104,7 @@ Una institución financiera busca entender el comportamiento transaccional de su
 
 🔗 **Notebook:**  
 https://github.com/josh-josh-123/portfolio/blob/main/notebook_supermercado.md
-
+- link actulizado
 ---
 
 ## 📉 Proyecto 2: Predicción de Riesgo de Morosidad en Microcréditos
