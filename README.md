@@ -85,27 +85,6 @@ Los proyectos abarcan análisis exploratorio, modelado predictivo y visualizaci�
 
 ---
 
-## 📊 Proyecto 1: Análisis de Comportamiento de Clientes en Canales de Pago
-
-![Proyecto 1](https://images.unsplash.com/photo-1551288049-bebda4e38f71)
-
-**Contexto del proyecto**  
-Una institución financiera busca entender el comportamiento transaccional de sus clientes para mejorar la adopción de canales digitales y reducir la dependencia del efectivo.
-
-**Análisis**  
-- Limpieza y exploración de datos transaccionales  
-- Segmentación de clientes por frecuencia, monto y canal  
-- Análisis de tendencias temporales y patrones de uso  
-
-**Conclusiones principales**  
-- Identificación de segmentos con alto potencial de migración a canales digitales  
-- Canales electrónicos muestran mayor recurrencia en clientes corporativos  
-- Oportunidades claras para campañas personalizadas  
-
-🔗 **Notebook:**  
-
----
-
 ## 📊 Proyecto 1: Supermercado
 
 ![Proyecto 1](https://github.com/josh-josh-123/portfolio/blob/main/img_super_612x612.jpg?raw=true)
