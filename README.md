@@ -115,6 +115,33 @@ Un supermercado online busca entender el comportamiento transaccional de sus cli
 
 ---
 
+## 📊 Proyecto 2: Planes de pago
+
+![Proyecto 2]( https://github.com/josh-josh-123/portfolio/blob/main/planes_pago.jpg?raw=true)
+
+**Contexto del proyecto**  
+Esta empresa de telefonía ofrece a sus clientes dos tarifas de prepago, Surf y Ultimate, con disponibilidad de 15GB y 30GB de datos, ya incluidos en la tarifa, respectivamente. El departamento comercial quiere saber cuál de las tarifas genera más ingresos para poder ajustar el presupuesto de publicidad. Se tiene la información en 5 tablas interrelacionadas: catálogo de clientes y plan contratado, catálogo de tarifas, consumo de llamadas, consumo de SMS y consumo de datos por cada cliente. 
+
+**Análisis**  
+- Uso de librerías: Pandas, Numpy, Matplotlib, Seaborn, Scipy, Math
+- Uso de funciones y función apply para calcular el ingreso mensual por cada usuario
+- Aplicación de herramientas estadísticas: Boxplot, Histogramas, Pruebas de hipótesis
+
+**Conclusiones principales**  
+
+- Existe un segmento importante de usuarios que demandan mayor disponiblidad de internet en sus paquetes. Hoy están limitados a 15gb y 30gb respectivamente.
+
+- 60% de los pagos que se reciben en Surf pagan extra por el uso de internet. Esto es bueno para la compañía, por recibir ingresos extra, pero existe un riesgo de que otra compañía competidora les ofrezca mejores planes y los perdamos.
+
+- 35% de los pagos recibidos en Surf estan en el plan incorrecto. Son de usuarios intensivos de internet. Es bueno para la compañía que estos clientes paguen en exceso, sin embargo existe riesgo de que otra compañía les ofrezca un mejor paquete y los perdamos.
+
+- Se recomienda a la compañía analizar la posibilidad de crear un nuevo paquete, dirigido al segmento de usuarios intensivos en el uso de internet, con un precio mensual aproximado a $45 con capacidad de navegar en internet hasta 30gb, a la vez ampliar la capacidad del plan Ultimate a 40gb. Con ello tendría opción de atender mejor a los clientes Surf y dar un plan que cubra bien las necesidades de Ultimate. El nuevo paquete debe promocionarse agresivamente para traer nuevos clientes, y debe usarse defensivamente para evitar que los clientes actuales se vayan.
+
+🔗 **Notebook:**  
+[Ver notebook_planes_de_pago]( https://github.com/josh-josh-123/portfolio/blob/2c210c847e8ba59e8abdfcb9fafa2704ff9f4a8e/Planes_de_pago.md)
+
+---
+
 ## 📉 Proyecto 2: Predicción de Riesgo de Morosidad en Microcréditos
 
 ![Proyecto 2](https://github.com/josh-josh-123/portfolio/blob/main/planes_pago.jpg?raw=true)
