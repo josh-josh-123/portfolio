@@ -138,7 +138,7 @@ Esta empresa de telefonía ofrece a sus clientes dos tarifas de prepago, Surf y 
 - Se recomienda a la compañía analizar la posibilidad de crear un nuevo paquete, dirigido al segmento de usuarios intensivos en el uso de internet, con un precio mensual aproximado a $45 con capacidad de navegar en internet hasta 30gb, a la vez ampliar la capacidad del plan Ultimate a 40gb. Con ello tendría opción de atender mejor a los clientes Surf y dar un plan que cubra bien las necesidades de Ultimate. El nuevo paquete debe promocionarse agresivamente para traer nuevos clientes, y debe usarse defensivamente para evitar que los clientes actuales se vayan.
 
 🔗 **Notebook:**  
-[Ver notebook Planes_de_pago]( https://github.com/josh-josh-123/portfolio/blob/2c210c847e8ba59e8abdfcb9fafa2704ff9f4a8e/Planes_de_pago.md)
+[Ver notebook Planes_de_pago](https://github.com/josh-josh-123/portfolio/blob/9e1bc0a2fd254484d60ac35b2d4b07df7a50fe1a/Planes_de_pago.md)
 
 ---
 
