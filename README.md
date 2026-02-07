@@ -117,7 +117,7 @@ Un supermercado online busca entender el comportamiento transaccional de sus cli
 
 ## 📉 Proyecto 2: Predicción de Riesgo de Morosidad en Microcréditos
 
-![Proyecto 2](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c)
+![Proyecto 2](https://github.com/josh-josh-123/portfolio/blob/main/planes_pago.jpg?raw=true)
 
 **Contexto del proyecto**  
 Una institución de microfinanzas desea anticipar qué clientes tienen mayor probabilidad de caer en mora para tomar acciones preventivas.
