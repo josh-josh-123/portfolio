@@ -8,20 +8,18 @@
 
 ## 🚀 Sobre mí
 
-Cuento con amplia experiencia liderando productos de pago en banca global y fintech, combinando **visión de negocio**, **análisis de datos** y **gestión de equipos multidisciplinarios**.  
+Cuento con amplia experiencia liderando productos de pago en banca empresarial y corporativa, combinando **visión de negocio**, **análisis de datos** y **gestión de equipos multidisciplinarios**.  
 He trabajado en entornos altamente regulados y con plataformas globales, impulsando crecimiento sostenible, eficiencia operativa y mejoras en la experiencia del cliente.
 
-Actualmente me estoy formando como **Data Scientist**, con interés particular en analítica aplicada a pagos, riesgo, comportamiento de clientes y optimización de canales.
+Actualmente me estoy formando como **Data Scientist**, con interés particular en analítica aplicada a pagos, riesgo, comportamiento de clientes y uso de canales.
 
 ---
 
 ## 🧠 Áreas de especialidad
 
-- Productos y canales de pago (SPEI, TEF, Cheques, Impuestos, Domiciliación)
-- Gestión de producto y planeación estratégica
+- Gestión de productos y canales de pago (SPEI, TEF, Cheques, Impuestos, Domiciliación, Cobranza referenciada)
+- Planeación estratégica
 - Ciencia de Datos aplicada a negocio
-- Sistemas de pago y operación bancaria
-- Banca corporativa, empresarial y microfinanzas
 - Gestión y liderazgo de equipos
 - Transformación y gestión del cambio
 
@@ -31,8 +29,7 @@ Actualmente me estoy formando como **Data Scientist**, con interés particular e
 
 - **Idiomas:** Español (nativo), Inglés (avanzado – TOEIC 930)
 - **Gestión:** Desarrollo y ejecución de proyectos, metodologías ágiles
-- **Data & Analytics:** Python, Pandas, NumPy, Power BI, visualización, KPI’s
-- **Negocio:** Diseño de incentivos, modelos operativos, optimización de canales
+- **Data & Analytics:** Python, Pandas, NumPy, Power BI, Dashboards
 
 ---
 
@@ -96,11 +93,11 @@ Un supermercado online busca entender el comportamiento transaccional de sus cli
 - Importación de datasets de alto volumen (4.5 millones de registros) con tabuladores atípicos.
 - Uso de librerías: Pandas, Numpy y Matplotlib
 - Limpieza y exploración de datos, incluyendo:
-- Registros duplicados
-- Valores nulos
-- Valores vacíos
-- Valores inconsistentes (mismo significado con distinta sintaxis)
-- Valores incorrectos
+    - Registros duplicados
+    - Valores nulos
+    - Valores vacíos
+    - Valores inconsistentes (mismo significado con distinta sintaxis)
+    - Valores incorrectos
 
 **Conclusiones principales**  
 - Los pedidos están concentrados entre las 9 y las 16hrs. Pudiera ser un cuello de botella a analizar. De confirmarse que se trata de un cuello de botella podría analizarse la opción de dar descuento en horarios fuera de este periodo.
@@ -110,6 +107,7 @@ Un supermercado online busca entender el comportamiento transaccional de sus cli
 - No funciona bien el contador de días transcurridos desde el último pedido. Sólo cuenta bien hasta el día 30 días. Esto es un tema urgente a corregir;  esta variable es muy relevante para identificar clientes que dejaron de usar el servicio, y sirve para detonar llamadas o promociones para averiguar el motivo y recuperar clientes.
 - El pedido mas común es de 5 artículos, con 31,923 casos observados. Esto nos habla de que muchos clientes usan el servicio para pedir productos ocasionales, suponemos que el "super grande" lo hacen físicamente en una tienda.
 - El top 20 de artículos que vuelven a pedirse con mayor frecuencia incluye sólo productos frescos y la mayor parte de ellos del tipo orgánico. Este tipo de artículos también son los primeros que el cliente pone en su carrito de compras. Esta claro que nuestra calidad y catálogo de productos frescos (en particular orgánicos) es una ventaja competitiva.
+
 🔗 **Notebook:**  
 [Ver notebook_supermercado](https://github.com/josh-josh-123/portfolio/blob/f597b0eb1e28eb75ca4e42140b6657cdddafa529/Supermercado.ipynb)
 
