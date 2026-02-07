@@ -142,25 +142,48 @@ Esta empresa de telefonía ofrece a sus clientes dos tarifas de prepago, Surf y 
 
 ---
 
-## 📈 Proyecto 3: Optimización de Red de Comercios con Data Analytics
+## 📊 Proyecto 3: Videojuegos
 
-![Proyecto 3](https://images.unsplash.com/photo-1543286386-713bdd548da4)
+![Proyecto 3]( https://github.com/josh-josh-123/portfolio/blob/main/videojuegos_personajes.png?raw=true)
 
 **Contexto del proyecto**  
-Optimizar la cobertura geográfica y el desempeño de una red de comercios corresponsales en zonas no bancarizadas.
+Tienda online que vende videojuegos globalmente. Se deben identificar patrones que determinen si un juego tiene éxito o no. Esto permite detectar proyectos prometedores y planificar campañas publicitarias. Los datos provistos corresponden al año 2016. Se requiere completar un análisis que lleve a tomar decisiones de negocio en diciembre de 2016, para ser ejecutadas en 2017.
+El dataset provisto contiene: Nombre del juego, plataforma, año de lanzamiento, género, rating de críticos especializados, rating de usuarios, ventas en región NA, región EU, región JP y otras regiones.
 
 **Análisis**  
-- Análisis geoespacial y de desempeño por tienda  
-- Segmentación por ciclo de vida del comercio  
-- Definición de reglas de *best-next-action*  
+- Limpieza de datos y preparación de datos:
+    - Ajustar nombre de columnas
+    - Valores ausentes.
+    - Valores nulos
+    - Sustitución de valores
+    - Agregar los datos de género, en una categoría mas amplia que permita su análisis.
+- Uso de librerías: Pandas, Numpy, Matplotlib, Seaborn, Scipy, Math
+- Aplicación de herramientas estadísticas: Boxplot, Boxplot grouped, Cálculo de correlación, Histogramas, Análisis de cuartiles, Pruebas de hipótesis, 
+- Gráficas de dispersión, barras apiladas, barras separadas
 
 **Conclusiones principales**  
-- Identificación de tiendas clave para expansión o retención  
-- Mejor asignación de recursos comerciales  
-- Base analítica para toma de decisiones estratégicas  
+
+- La información del año 2016 está incompleta, pero aun así es útil porque los datos, aunque parciales, parecen estar bien en cuanto a sus proporciones, con lo cual se obtiene información reciente valiosa para orientar las decisiones (lo confirman las gráficas 1, 2, 3, 4 y 12)
+
+- La venta de videojuegos es un mercado que va la baja desde el año 2010. Se recomienda diversificar los ingresos con ventas de productos/servicios sustitutos o complementarios, que aprovechen los canales que ya tiene la empresa y vayan dirigidos a estos mismos clientes preferentemente (lo confirma la gráfica 4)
+
+- La información que tenemos de ingresos por Ventas está vinculada al año en el que se publicó cada videojuego. Sabemos que lo mejor sería tener los ingresos de cada juego en cada año, pero al no disponer de ello, el análisis lo debemos hacer asumiendo que los ingresos de cada juego se dan en el año en que se publicaron (year_of_release), lo cual es una buena aproximación.
+
+- El negocio de videojuegos tiene alta incertidumbre, debido a que los ingresos que genera provienen de un número muy limitado de títulos que tienen ventas muy altas. En contraste un gran porcentaje de los juegos publicados generan muy bajas ganancias (lo confirman las Gráficas 5, 6 y 7)
+
+- Aun así se pueden tomar en cuenta algunos rasgos de la información para orientar los esfuerzos comerciales en los juegos que ofrecen la mayor probabilidad de éxito:
+
+    - Plataforma: las plataformas dominantes son 2.Sony y 3.Microsoft (lo confirman las gráficas 11 y 13). Las consolas más dominantes son (en orden):
+        - Norteamérica: PS4, XOne, X360, PS3 y PC
+        - Europa: PS4, XOne, PS3, PC, y X360
+        - Japón: PS4, PS3, PSV, 3DS, WiiU
+    - Genero: El esfuerzo comercial debe orientarse hacia Action y Shooter por tener las ventas relevantes. Action tiende a decrecer y Shooter a mantenerse en su nivel. Los géneros Role-Playing y Sports siguen en nivel de importancia (lo confirma la gráfica 12)
+    - Edad: La mayor probabilidad de éxito está en las opciones 5.Mature y 2.Everyone (lo confirma la gráfica 15)
+    - Juegos multiplataforma: Los juegos que se lanzan en plataformas múltiples suelen tener mayor éxito que los de plataforma individual. Se confirma que los fabricantes pueden identificar con anticipación los juegos de alto potencial (lo confirma la gráfica 10).
+    - Score de la crítica y usuarios: Si bien tenemos una correlación positiva de la crítica a las ventas, el índice de correlación es cercano a cero. La crítica es un aspecto a considerar, pero no es un aspecto determinante. (lo confirman las gráficas 8 y 9)
 
 🔗 **Notebook:**  
-https://github.com/usuario/optimizacion-red-comercios/blob/main/notebook.ipynb
+[Ver notebook Videojuegos]( https://github.com/josh-josh-123/portfolio/blob/847806ba29e51ff8c6429d7b4ecc025906d25141/Videojuegos.md)
 
 ---
 
