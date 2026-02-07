@@ -124,7 +124,7 @@ Esta empresa de telefonía ofrece a sus clientes dos tarifas de prepago, Surf y 
 
 **Análisis**  
 - Uso de librerías: Pandas, Numpy, Matplotlib, Seaborn, Scipy, Math
-- Uso de funciones y función apply para calcular el ingreso mensual por cada usuario
+- Uso de funciones y método Apply para calcular el ingreso mensual por cada usuario
 - Aplicación de herramientas estadísticas: Boxplot, Histogramas, Pruebas de hipótesis
 
 **Conclusiones principales**  
@@ -139,28 +139,6 @@ Esta empresa de telefonía ofrece a sus clientes dos tarifas de prepago, Surf y 
 
 🔗 **Notebook:**  
 [Ver notebook_planes_de_pago]( https://github.com/josh-josh-123/portfolio/blob/2c210c847e8ba59e8abdfcb9fafa2704ff9f4a8e/Planes_de_pago.md)
-
----
-
-## 📉 Proyecto 2: Predicción de Riesgo de Morosidad en Microcréditos
-
-![Proyecto 2](https://github.com/josh-josh-123/portfolio/blob/main/planes_pago.jpg?raw=true)
-
-**Contexto del proyecto**  
-Una institución de microfinanzas desea anticipar qué clientes tienen mayor probabilidad de caer en mora para tomar acciones preventivas.
-
-**Análisis**  
-- Análisis exploratorio de variables financieras y demográficas  
-- Ingeniería de variables  
-- Entrenamiento de modelos de clasificación (Logistic Regression, Random Forest)  
-
-**Conclusiones principales**  
-- Variables de comportamiento reciente son más predictivas que datos demográficos  
-- El modelo permite priorizar acciones de cobranza preventiva  
-- Mejora potencial en la eficiencia operativa del área de riesgo  
-
-🔗 **Notebook:**  
-https://github.com/usuario/prediccion-morosidad/blob/main/notebook.ipynb
 
 ---
 
