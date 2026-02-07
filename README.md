@@ -1,3 +1,5 @@
+https://github.com/josh-josh-123/portfolio/blob/main/edificios.png?raw=true
+
 👋 Profesional del sector financiero especializado en **productos y canales de pago** con un fuerte enfoque en **Ciencia de Datos**, estrategia y ejecución.
 
 📍 Ciudad de México  
