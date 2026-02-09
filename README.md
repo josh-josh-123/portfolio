@@ -1,12 +1,26 @@
 ![Encabezado](https://github.com/josh-josh-123/portfolio/blob/main/Bancos%20digital%20soluciones%20futuro.png?raw=true)
 
-👋 Profesional del sector financiero especializado en **productos y canales de pago** con un fuerte enfoque en **Ciencia de Datos**, estrategia y ejecución.
+# 👋 Bienvenido a mi Portfolio
+
+Soy un **profesional del sector financiero especializado en productos y canales de pago**, con un fuerte enfoque en **Ciencia de Datos aplicada al negocio**.  
+Este sitio reúne **mi perfil profesional** y una **selección de proyectos de Data Science** desarrollados durante un bootcamp.
+
+---
+
+## 🧭 Navegación rápida
+
+👉 [👔 Ir a Perfil Profesional](#-perfil-profesional)  
+👉 [📂 Ir a Proyectos de Data Science](#-proyectos-de-data-science)
+
+---
 
 📍 Ciudad de México  
 🔗 [LinkedIn](https://linkedin.com/in/jose-manuel-sanchez-hernandez-a6173932)  
 📧 josemsh@yahoo.com  
 
 ---
+
+# 👔 Perfil Profesional
 
 ## 🚀 Sobre mí
 
@@ -80,11 +94,12 @@ Actualmente me estoy formando como **Data Scientist**, con interés particular e
 ## Introducción
 
 Esta sección presenta una selección de proyectos desarrollados durante mi **bootcamp de Data Science**, enfocados en el uso de datos para resolver problemas reales de negocio.  
-Los proyectos abarcan análisis exploratorio, modelado predictivo y visualización, utilizando **Python, librerías de análisis de datos y notebooks reproducibles**.
+Los proyectos abarcan **análisis exploratorio**, **modelado predictivo** y **visualización**, utilizando **Python y notebooks reproducibles**.
 
 ---
 
 ## 📊 Proyecto 1: Supermercado
+
 
 ![Proyecto 1](https://github.com/josh-josh-123/portfolio/blob/main/img_super_612x612.jpg?raw=true)
 
